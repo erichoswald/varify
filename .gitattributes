@@ -1,0 +1,4 @@
+# Store scripts and binaries byte for byte, so that git (core.autocrlf) and jj agree on their contents.
+/gradlew    -text
+*.bat       -text
+*.jar       binary

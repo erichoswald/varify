@@ -1,0 +1,16 @@
+# Gradle
+/build/
+/.gradle/
+
+# Kotlin
+/.kotlin/
+
+# Varify
+/.varify/
+
+# MacOS
+.DS_Store
+
+# IntelliJ
+/.ai/
+/.idea/
