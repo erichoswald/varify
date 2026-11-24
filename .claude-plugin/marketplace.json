@@ -1,0 +1,14 @@
+{
+  "name": "varify",
+  "description": "Agent skills for the Varify property-based testing library",
+  "owner": {
+    "name": "Erich Oswald"
+  },
+  "plugins": [
+    {
+      "name": "varify",
+      "source": "./",
+      "description": "Skills for writing property-based tests with Varify"
+    }
+  ]
+}

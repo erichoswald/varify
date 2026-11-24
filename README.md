@@ -352,6 +352,17 @@ samples:
   [1] StringGenerator(...): 100 samples, 61 distinct, most frequent: "" (5)
 ```
 
+## Agent skill
+
+The skill [`writing-varify-tests`](skills/writing-varify-tests/SKILL.md) teaches coding agents how to write and debug
+Varify tests. In Claude Code, install it as a plugin from this repository:
+
+```
+/plugin install varify --marketplace erichoswald/varify
+```
+
+Other agents that support skills can use a copy of the `skills/writing-varify-tests` directory.
+
 ## License
 
 Varify is licensed under the [Apache License, Version 2.0](LICENSE).

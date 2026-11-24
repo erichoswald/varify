@@ -1,0 +1,10 @@
+{
+  "name": "varify",
+  "description": "Skills for writing property-based tests with Varify",
+  "author": {
+    "name": "Erich Oswald"
+  },
+  "homepage": "https://github.com/erichoswald/varify",
+  "repository": "https://github.com/erichoswald/varify",
+  "license": "Apache-2.0"
+}
